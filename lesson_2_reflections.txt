@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+- I get a message that tells me that a new Git repository has been 
+initialized. If I didn't do this, I wouldn't be able to use Git 
+within this repo
