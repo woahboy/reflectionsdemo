@@ -22,3 +22,9 @@ you could maintain all at one time.
 How do the diagrams help you visualize the branch structure?
 
 - They help by showing me which commit exists in which location. 
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+- You end up with one branch that is named the same as the current
+branch you were on when you make the merge. This means that the
+previous branch can now be deleted, and that those changes were	completed.
