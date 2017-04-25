@@ -18,3 +18,7 @@ What are some situations when branches would be helpful in keeping your history 
 
 - They would allow you to make multiple versions of the same file that
 you could maintain all at one time. 
+
+How do the diagrams help you visualize the branch structure?
+
+- They help by showing me which commit exists in which location. 
