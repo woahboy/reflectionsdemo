@@ -3,3 +3,8 @@ What happens when you initialize a repository? Why do you need to do it?
 - I get a message that tells me that a new Git repository has been 
 initialized. If I didn't do this, I wouldn't be able to use Git 
 within this repo
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+- It gives you a place to assemble your commit before you actual have 
+to "commit" to the commit. 
