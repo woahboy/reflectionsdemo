@@ -13,3 +13,8 @@ How can you use the staging area to make sure you have one commit per logical ch
 
 - It will allow you to only place the files in the repository that are 
 necessary for the logical change that occured. 
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+- They would allow you to make multiple versions of the same file that
+you could maintain all at one time. 
