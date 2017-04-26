@@ -1,3 +1,11 @@
 When would you want to use a remote repository rather than keeping all your work local?
 
 - You could use a remote repository any time you want to commit your changes to GitHub to collaborate with others. 
+
+Why might you want to always pull changes manually rather than having 
+Git automatically stay up-to-date with your remote repository.
+
+- For the same reason you may not want to push changes you aren't 
+ready to share. Sometimes there is a part of the project the community
+is working on that you don't want to have cluttering up your local repo
+until you are certain that you want to use it. 
