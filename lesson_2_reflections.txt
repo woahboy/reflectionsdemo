@@ -28,3 +28,7 @@ What is the result of merging two branches together? Why do we represent it in t
 - You end up with one branch that is named the same as the current
 branch you were on when you make the merge. This means that the
 previous branch can now be deleted, and that those changes were	completed.
+
+What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+
+- It saves you work, but it can also lead to strange merge conflicts. 
