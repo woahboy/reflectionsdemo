@@ -9,3 +9,9 @@ Git automatically stay up-to-date with your remote repository.
 ready to share. Sometimes there is a part of the project the community
 is working on that you don't want to have cluttering up your local repo
 until you are certain that you want to use it. 
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+- Branch: Happens on a single repo
+- Cloning: Copy's an existing repository
+- Forking: Exactly like a clone, but only exists within GitHub
