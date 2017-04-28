@@ -25,3 +25,10 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 - I feel like you could set up a system that would work with folders
 but GitHub makes it way easier to see and share changes while working
 on one single project. 
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+- You can really try out anything in a different branch without 
+interfereing with stuff other people could be working on. If you do
+stuff directly in master, however, you can all collaborate on a the 
+same thing at the same time.
