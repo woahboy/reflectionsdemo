@@ -24,6 +24,10 @@ How can you use the commands git log and git diff to view the history of files?
 - Git Log shows when each commit was made, and get diff shows what 
 changed between the current commit and last commit.
 
+make a change
+make another change
+
+
 How might using version control make you more confident to make changes that could break something?
 
 - Because you can always find those changes easily and undo them. 
